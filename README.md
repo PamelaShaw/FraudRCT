@@ -1,5 +1,5 @@
 # FraudRCT
-This code supports paper: Detecting Fraudulent Baseline Data in Clinical Trials by Proschan MA And Shaw P. PLOSONE
+This code supports paper: Detecting Fraudulent Baseline Data in Clinical Trials by Proschan MA And Shaw P. PLoS ONE 15(9):e0239121
 
 equicor20200909.R reproduces Tables 1 and 2.
 
